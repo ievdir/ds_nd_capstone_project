@@ -1,5 +1,3 @@
-README
-
 In this repository it is saved code used to prepare the solution to Udacity Nanodegree capstone project. It is not allowed to share the data according to project conditions. 
 
 The aim of this project is to segment and compare the population and customers base values, create prediction for the marketing campaign output. For the analysis purposes I used provided socio-demographic features of Arvato Financial Solutions.
