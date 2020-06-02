@@ -43,6 +43,7 @@ pd.set_option('max_colwidth', None)
 
 #### The main file:
 Arvato Project Workbook.ipynb
+Arvato Project Workbook.html (HTML version)
 
 Provided files by the task (not included in the repository):
 - Udacity_AZDIAS_052018.csv: Demographics data for the general population of Germany; 891 211 persons (rows) x 366 features (columns).
